@@ -13,16 +13,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1ffff', end
 	font-family: Tahoma;
 	font-size: 50px;
 	text-align: center;
-	margin: 0;
+	margin: auto;
 	
-}
-.sidebar{
-	width: 200px;
-	height: auto;
-	margin-left: inherit;
-	border: 0px solid;
-	position: fixed;
-	position: absolute; right: 100px;
-	padding: 100px;
-
 }

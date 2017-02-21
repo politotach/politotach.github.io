@@ -1,8 +1,9 @@
 body{
-	margin: 0;
+	margin: 0px;
 }
-
 .hat{
+	margin: auto;
+
 	height: 70px;
 	border-radius: 10px;
 	background: rgb(225,255,255);
@@ -13,6 +14,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1ffff', end
 	font-family: Tahoma;
 	font-size: 50px;
 	text-align: center;
-	margin: auto;
-	
+	position: fixed static;	
 }
